@@ -125,5 +125,5 @@ It should **not be used as a replacement for professional medical diagnosis**. A
 ---
 
 ## Author
-**Your Name**  
+DARSHAN S
 Computer Vision & Deep Learning Enthusiast  
